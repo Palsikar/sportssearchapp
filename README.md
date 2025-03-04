@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview  
 The **Sports Search App** is an **Android application** that allows users to search for sports and get detailed information about them. The app provides rules, descriptions, and relevant details for various sports, making it a **quick reference tool** for sports enthusiasts.  
+![alt text](http://url/to/img.png)
 
 ## ✨ Features  
 - 🔍 **Search Functionality**: Users can search for a sport and instantly retrieve its details.  
